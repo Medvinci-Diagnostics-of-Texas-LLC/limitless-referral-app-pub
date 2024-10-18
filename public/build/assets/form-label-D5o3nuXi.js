@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,c as s,h as a}from"./app-jM8mlP8j.js";const r={name:"FormLabelComponent"},n={class:"v-form-label flex items-center justify-start sm:justify-between gap-1 text-sm leading-6 text-gray-500"};function l(e,c,m,f,p,i){return o(),s("label",n,[a(e.$slots,"default")])}const u=t(r,[["render",l]]);export{u as default};

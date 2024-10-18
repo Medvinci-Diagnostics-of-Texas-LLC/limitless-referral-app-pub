@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as a,h as s}from"./app-jM8mlP8j.js";const r={name:"TableFootComponent"},n={class:"v-table-foot bg-gray-50"};function c(o,l,p,_,f,d){return e(),a("thead",n,[s(o.$slots,"default")])}const u=t(r,[["render",c]]);export{u as default};

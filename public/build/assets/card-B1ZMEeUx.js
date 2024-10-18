@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as r,c as t,h as a}from"./app-jM8mlP8j.js";const s={name:"CardComponent"},d={class:"v-card bg-gray-50 rounded-md divide-y divide-gray-200"};function n(e,c,i,p,_,m){return r(),t("div",d,[a(e.$slots,"default")])}const u=o(s,[["render",n]]);export{u as default};

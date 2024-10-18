@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,c as a,h as s}from"./app-jM8mlP8j.js";const n={name:"TableComponent"},r={class:"v-table min-w-full divide-y divide-gray-200"};function c(e,l,d,i,p,_){return o(),a("table",r,[s(e.$slots,"default")])}const u=t(n,[["render",c]]);export{u as default};

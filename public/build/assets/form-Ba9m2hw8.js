@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as r,c as t,h as s}from"./app-jM8mlP8j.js";const n={name:"FormComponent"},a={class:"v-form"};function c(o,m,f,p,_,l){return r(),t("form",a,[s(o.$slots,"default")])}const u=e(n,[["render",c]]);export{u as default};

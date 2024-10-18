@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as a,c as o,h as s}from"./app-jM8mlP8j.js";const r={name:"TableHeadComponent"},n={class:"v-table-head bg-gray-50"};function c(e,d,l,p,_,f){return a(),o("thead",n,[s(e.$slots,"default")])}const h=t(r,[["render",c]]);export{h as default};

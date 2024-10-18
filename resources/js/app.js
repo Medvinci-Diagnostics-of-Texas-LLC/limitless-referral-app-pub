@@ -13,13 +13,13 @@ import BugsnagPerformance from "@bugsnag/browser-performance";
 
 Bugsnag.start({
     appVersion: import.meta.env.VITE_APP_BUGSNAG_APP_VERSION,
-    apiKey: import.meta.env.VITE_APP_BUGSNAG_API_KEY,
+    apiKey: '6aaf2c6db43423b12a5c89005815b73b',
     releaseStage: import.meta.env.VITE_APP_BUGSNAG_RELEASE_VERSION,
     plugins: [new BugsnagPluginVue()]
 });
 
 BugsnagPerformance.start({
-    apiKey: import.meta.env.VITE_APP_BUGSNAG_API_KEY
+    apiKey: '6aaf2c6db43423b12a5c89005815b73b',
 });
 
 const appName = import.meta.env.VITE_APP_NAME || "Laravel";

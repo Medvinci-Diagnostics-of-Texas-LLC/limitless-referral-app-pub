@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as s,h as a}from"./app-jM8mlP8j.js";const r={name:"TableBodyComponent"},n={class:"v-table-body divide-y divide-gray-200"};function d(e,c,l,i,p,_){return t(),s("tbody",n,[a(e.$slots,"default")])}const y=o(r,[["render",d]]);export{y as default};

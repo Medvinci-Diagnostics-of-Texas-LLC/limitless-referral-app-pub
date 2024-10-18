@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as t,h as s}from"./app-jM8mlP8j.js";const n={name:"FormErrorComponent"},a={class:"v-form-error text-sm text-red-500 mt-1"};function c(r,m,p,f,_,d){return e(),t("p",a,[s(r.$slots,"default")])}const u=o(n,[["render",c]]);export{u as default};

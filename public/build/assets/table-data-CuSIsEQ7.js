@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as a,c as o,h as s}from"./app-jM8mlP8j.js";const r={name:"TableDataComponent"},n={class:"v-table-data p-4 sm:px-6 text-sm text-gray-500"};function c(t,p,l,m,_,d){return a(),o("td",n,[s(t.$slots,"default")])}const u=e(r,[["render",c]]);export{u as default};

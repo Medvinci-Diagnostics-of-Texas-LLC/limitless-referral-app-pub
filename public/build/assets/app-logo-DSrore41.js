@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as s,c as e,g as t}from"./app-jM8mlP8j.js";const a={name:"AppLogoComponent"},c={class:"v-app-logo"},n=t("img",{class:"h-20 p-4 mx-auto",src:"/assets/image/logo.svg"},null,-1),p=[n];function r(_,i,m,l,d,g){return s(),e("div",c,p)}const h=o(a,[["render",r]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as r,h as o}from"./app-jM8mlP8j.js";const s={name:"ParagraphComponent"},n={class:"v-paragraph text-sm text-gray-600"};function p(a,c,_,m,f,l){return e(),r("p",n,[o(a.$slots,"default")])}const i=t(s,[["render",p]]);export{i as default};

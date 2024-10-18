@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as s,h as n}from"./app-jM8mlP8j.js";const r={name:"SectionGroupComponent"},c={class:"v-section-group"};function a(o,p,i,_,d,f){return t(),s("div",c,[n(o.$slots,"default")])}const u=e(r,[["render",a]]);export{u as default};

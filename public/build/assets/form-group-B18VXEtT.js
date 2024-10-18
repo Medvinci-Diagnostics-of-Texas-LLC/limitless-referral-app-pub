@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as t,h as s}from"./app-jM8mlP8j.js";const n={name:"FormGroupComponent"},a={class:"v-form-group"};function c(o,p,m,f,_,d){return e(),t("div",a,[s(o.$slots,"default")])}const i=r(n,[["render",c]]);export{i as default};

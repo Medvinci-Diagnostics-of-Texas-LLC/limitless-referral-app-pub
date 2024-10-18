@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,c as s,h as r}from"./app-jM8mlP8j.js";const n={name:"SectionDividerComponent"},c={class:"v-section-divider w-full bg-gray-100 px-6 py-4 text-sm font-medium text-gray-500"};function i(e,a,d,p,m,f){return o(),s("div",c,[r(e.$slots,"default")])}const u=t(n,[["render",i]]);export{u as default};
